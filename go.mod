@@ -1,1 +1,1 @@
-module github.com/vitvrn/testmod
+module github.com/vitvrn/testmod/v2
